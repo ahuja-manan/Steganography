@@ -21,20 +21,13 @@ and blue component colours of the dot.
 '''
 
 #############################################################
-# Author : Manan Ahuja (mahuja@student.unimelb.edu.au)
+# Author : Manan Ahuja
 #
 # Date created : 29/09/2013
-#
-# Notes :
-#
-# This code is an attempt to satisfy the requirements of
-# Project 2 for the University of Melbourne subject COMP10001
-# "Foundations of Computing".
 #
 # This program is designed to be used with Python 2.7.
 #
 # Thanks to Bernie Pope and Daniel Williams for their help.
-#
 #
 #############################################################
 
